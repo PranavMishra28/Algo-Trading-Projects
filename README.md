@@ -37,26 +37,12 @@ The project is organized as follows:
 
 This project covers the implementation of various trading strategies:
 
-1. **Algorithmic Trading Fundamentals & API Basics**: An introduction to algorithmic trading and API usage for fetching financial data.
+1. **Building An Equal-Weight S&P 500 Index Fund**: Implementation of an equal-weight portfolio strategy based on the S&P 500 index.
 
-2. **Building An Equal-Weight S&P 500 Index Fund**: Implementation of an equal-weight portfolio strategy based on the S&P 500 index.
+2. **Building A Quantitative Momentum Investing Strategy**: Develop a momentum-based trading strategy to identify and trade trending stocks.
 
-3. **Building A Quantitative Momentum Investing Strategy**: Developing a momentum-based trading strategy to identify and trade trending stocks.
+3. **Building A Quantitative Value Investing Strategy**: Creating a value-based trading strategy that identifies undervalued stocks.
 
-4. **Building A Quantitative Value Investing Strategy**: Creating a value-based trading strategy that identifies undervalued stocks.
 
-## Resources
-
-In addition to the code, we provide supplementary resources:
-
-- Recommended readings on algorithmic trading and quantitative finance.
-- Links to relevant online courses and tutorials.
-- References to useful Python libraries for financial analysis.
-
-## Contributing
-
-Contributions to this project are welcome! If you find any issues or want to add new trading strategies, feel free to open a pull request. Please review our [contribution guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Note
+Made with referring freeCodeCamp's Algo Trading Project
