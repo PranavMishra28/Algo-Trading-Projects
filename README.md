@@ -45,4 +45,4 @@ This project covers the implementation of various trading strategies:
 
 
 ## Note
-Made with referring freeCodeCamp's Algo Trading Project
+Made with referring freeCodeCamp's Algo Trading Project Course
